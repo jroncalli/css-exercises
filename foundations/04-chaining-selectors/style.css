@@ -1,0 +1,20 @@
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
+
+/* <img class="avatar proportioned" src="./pexels-katho-mutodo-8434791.jpg" alt="">
+ <img class="avatar distorted" src="./pexels-andrea-piacquadio-3777931.jpg" alt="">
+</div>
+<!-- Use the classes ABOVE this line -->
+<div>
+ <img class="original proportioned" src="./pexels-katho-mutodo-8434791.jpg" alt="">
+ <img class="original distorted" src="./pexels-andrea-piacquadio-3777931.jpg" alt=""> */
+
+/* * Make the element with both the `avatar` and `proportioned` classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).
+* Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value). */

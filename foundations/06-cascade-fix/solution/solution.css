@@ -1,5 +1,4 @@
-.para,
-.small-para {
+p.small-para {
   color: hsl(0, 100%, 50%);
 }
 

@@ -1,0 +1,20 @@
+.odd1,
+.odd2,
+.odd3 {
+  background-color: #e790c4;
+  font-family: Verdana, "DejaVu Sans", serif;
+}
+
+#numbertwo {
+  color: blue;
+  font-size: 36px;
+}
+
+.odd2 {
+  font-size: 24px;
+}
+.numberfour {
+  background-color: rgb(90, 151, 90);
+  font-size: 24px;
+  font-weight: bold;
+}
